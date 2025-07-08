@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/storage/emulated/0/APK/CEKMOCK/app"
+    name=":app"
+    type="APP"
+    maven="CEKMOCK:app:"
+    agpVersion="8.1.0"
+    buildFolder="build"
+    bootClassPath="/data/data/com.termux/files/home/ANDROID/tool/android-sdk/platforms/android-34/android.jar:/data/data/com.termux/files/home/ANDROID/tool/android-sdk/build-tools/33.0.1/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
