@@ -3,7 +3,8 @@ package com.ewinz.mockchecker;
 
 import android.view.View;
 import android.widget.Button;
-import java.lang.reflect.Method;
+
+import java.lang.reflect.Methodfake;
 import android.Manifest;
 import android.app.Activity;
 import android.app.AppOpsManager;
