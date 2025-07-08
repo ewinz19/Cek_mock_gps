@@ -6,3 +6,11 @@ Cek mock
 
 <h2>Screenshot Aplikasi</h2>
 <img src="https://raw.githubusercontent.com/ewinz19/Cek_mock_gps/main/Images/screenshot.jpg" alt="Tampilan Aplikasi" width="300"/>
+
+
+
+## License
+
+This project is licensed under the MIT License.  
+You may use, modify, and distribute the software, **provided that proper credit is given to the original author (Ewinz)**.  
+For more information, see the [LICENSE](./LICENSE) file.
