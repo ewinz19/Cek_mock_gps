@@ -14,4 +14,4 @@ fingerprints:
 
 This project is licensed under the MIT License.  
 You may use, modify, and distribute the software, **provided that proper credit is given to the original author (Ewinz)**.  
-For more information, see the [LICENSE](./LICENSE) file.
+For more information, see the [LICENSE](./LICENSE.md) file.
